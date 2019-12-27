@@ -7,7 +7,7 @@ class Home extends Component {
   render() {
     return (
       <div style={{ width: '100%', margin: 'auto' }}>
-        <Grid className='landing-grid'>
+        <Grid className='landing-grid' style={{ overflow: 'auto' }}>
           <Cell col={12}>
             <img
               src={profilePic}
@@ -17,8 +17,7 @@ class Home extends Component {
                 marginTop: '50px',
                 userSelect: 'none',
                 border: '2px solid #151515',
-                padding: '5px',
-                width: '350px'
+                padding: '5px'
               }}
             />
 
