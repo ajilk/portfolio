@@ -64,9 +64,9 @@ class About extends Component {
               <h4>Photography</h4>
               <p>
                 I love capturing beautiful moments in life. Pictures bring
-                memories and good memories bring happiness. By taking pictures
-                of the places I have visited, I keep and memories and feeling I
-                felt when I was present in the setting
+                memories and good memories bring happiness. By capturing
+                beautiful places and moments in life, I keep memories and
+                feeling I felt when I was present in the setting
               </p>
             </div>
           </Cell>
