@@ -12,8 +12,8 @@ class Contact extends Component {
             <h2>Temurbek Sabirov</h2>
             <img src={profilePic} alt='avatar' style={{ height: '250px' }} />
             <h3 style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
-              Feel free to contact me with any questions or concerns via the
-              given phone number or email address.
+              Feel free to contact me by filling our the form to send me direct
+              message on my email.
             </h3>
           </Cell>
           <Cell col={6}>
